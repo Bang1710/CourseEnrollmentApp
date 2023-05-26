@@ -27,7 +27,7 @@ This application helps manage student and teacher information, as well as the re
 Clone the project
 
 ```bash
-  git clone https://github.com/Bang1710/CourseEnrollmentManagementApplication.git
+  git clone https://github.com/Bang1710/CourseEnrollmentApp.git
 ```
 
 Go to the project directory
