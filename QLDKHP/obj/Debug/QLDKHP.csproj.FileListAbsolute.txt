@@ -1,0 +1,255 @@
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe.config
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\QLDKHP.pdb
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.AssemblyReference.cache
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.Properties.Resources.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.GenerateResource.cache
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CoreCompileInputs.cache
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.exe
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.pdb
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmAdmin.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.FrmLogin.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmGioiThieu.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmStudent.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTeacher.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhapThongTinAdmin.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinTeacher.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinSinhVien.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDKHP.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\EnvDTE.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\stdole.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CopyComplete
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTraCuuLopHocPhan.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDangKyMonHoc.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDanhSachSinhVienLopHocPhan.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyLopHocPhanPhuTrach.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLySinhVien.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemSinhVien.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmPhanCongGiangDay.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyGiangVien.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyHocPhan.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyQuyDinh.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemGiangVien.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemLopHocPhan.resources
+C:\Users\Van Bang\Desktop\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemQuyDinh.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe.config
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\QLDKHP.pdb
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\EnvDTE.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\stdole.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.AssemblyReference.cache
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmAdmin.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinTeacher.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDangKyMonHoc.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDanhSachSinhVienLopHocPhan.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDKHP.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmGioiThieu.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhapThongTinAdmin.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinSinhVien.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.FrmLogin.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmPhanCongGiangDay.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyGiangVien.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyHocPhan.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyLopHocPhanPhuTrach.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyQuyDinh.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLySinhVien.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmStudent.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTeacher.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemGiangVien.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemLopHocPhan.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemQuyDinh.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemSinhVien.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTraCuuLopHocPhan.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.Properties.Resources.resources
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.GenerateResource.cache
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CoreCompileInputs.cache
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CopyComplete
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.exe
+C:\Users\Van Bang\Desktop\Source code\Visual studio\QLDKHP\QLDKHP\obj\Debug\QLDKHP.pdb
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe.config
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\QLDKHP.exe
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\QLDKHP.pdb
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\EnvDTE.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\stdole.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.AssemblyReference.cache
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmAdmin.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinTeacher.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDangKyMonHoc.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDanhSachSinhVienLopHocPhan.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmDKHP.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmGioiThieu.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhapThongTinAdmin.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmCapNhatThongTinSinhVien.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.FrmLogin.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmPhanCongGiangDay.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyGiangVien.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyHocPhan.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyLopHocPhanPhuTrach.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLyQuyDinh.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmQuanLySinhVien.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmStudent.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTeacher.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemGiangVien.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemLopHocPhan.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemQuyDinh.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmThemSinhVien.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.GUI.FrmTraCuuLopHocPhan.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.Properties.Resources.resources
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.GenerateResource.cache
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CoreCompileInputs.cache
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.csproj.CopyComplete
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.exe
+D:\Workspace\HKC-2022\SE\QLDKHP\QLDKHP\obj\Debug\QLDKHP.pdb
