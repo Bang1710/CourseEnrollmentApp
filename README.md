@@ -10,15 +10,15 @@ This application helps manage student and teacher information, as well as the re
 - Manage application permissions for students, teachers, and admin.
 - View and update personal information of students, teachers, and admin.
 
-  For students:
+ For students:
 - Search for course classes.
 - Register for course classes.
 
-  For teachers:
+ For teachers:
 - View the list of students in their assigned course classes.
 - Register for teaching courses.
 
-  For admin:
+ For admin:
 - Perform various administrative functions, such as adding, modifying, and deleting student, teacher, and course class records.
 - Define regulations and policies.
 - Assign teaching responsibilities to teachers.
