@@ -9,13 +9,13 @@ This application helps manage student and teacher information, as well as the re
  General:
 - Manage application permissions for students, teachers, and admin.
 - View and update personal information of students, teachers, and admin.
-For students:
+ For students:
 - Search for course classes.
 - Register for course classes.
-For teachers:
+ For teachers:
 - View the list of students in their assigned course classes.
 - Register for teaching courses.
-For admin:
+ For admin:
 - Perform various administrative functions, such as adding, modifying, and deleting student, teacher, and course class records.
 - Define regulations and policies.
 - Assign teaching responsibilities to teachers.
@@ -55,20 +55,20 @@ C#, Windows Form, ADO.NET, SQL Server
 
 
 ## Account demo
-- Student:
-  Username: sv001
-  Login password: 17102002
-  Account type: Student
+ Student:
+- Username: sv001
+- Login password: 17102002
+- Account type: Student
   
-- Teacher:
-  Username: gv001
-  Login password: 1111
-  Account type: Lecturer
+  Teacher:
+- Username: gv001
+- Login password: 1111
+- Account type: Lecturer
 
-- Admin:
-  Username: admin01
-  Login password: 1122
-  Account type: Admin
+  Admin:
+- Username: admin01
+- Login password: 1122
+- Account type: Admin
 
 ## Demo
 
